@@ -1,2 +1,2 @@
-# ishi
-python codes
+In mathematics, in the field of differential equations, a boundary value problem is a differential equation together with a set of additional constraints, called the boundary conditions. A solution to a boundary value problem is a solution to the differential equation which also satisfies the boundary conditions. Boundary value problems are similar to initial value problems. A boundary value problem has conditions specified at the extremes ("boundaries") of the independent variable.
+
