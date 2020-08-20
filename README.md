@@ -1,2 +1,4 @@
+Numerical methods are mathematical techniques used for solving mathematical problems that cannot be solved or are difficult to solve. The numerical solution is an approximate numerical value for the solution. Although numerical solutions are an approximation, they can be very accurate. The implementation of a numerical method with an appropriate convergence check in a programming language is called a numerical algorithm.
+
 In mathematics, in the field of differential equations, a boundary value problem is a differential equation together with a set of additional constraints, called the boundary conditions. A solution to a boundary value problem is a solution to the differential equation which also satisfies the boundary conditions. Boundary value problems are similar to initial value problems. A boundary value problem has conditions specified at the extremes ("boundaries") of the independent variable.
 
